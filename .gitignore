@@ -1,0 +1,7 @@
+.vercel
+node_modules
+.next
+.DS_Store
+_mirror_raw
+*.pyc
+__pycache__
